@@ -5,3 +5,9 @@ body {
 h1 {
   color: blue;
 }
+
+.btn {
+  color: green;
+  margin: 2rem;
+  font-size: 1.6rem;
+}
